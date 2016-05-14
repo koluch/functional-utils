@@ -1,11 +1,12 @@
 {
   "name": "functional-utils",
   "version": "0.0.1",
+  "description": "Some utils for functional programming",
   "keywords": [
-    "react",
-    "markup",
-    "html",
-    "hyperscript"
+    "fp",
+    "funtional programming",
+    "es6",
+    "utils"
   ],
   "license": "Unlicense",
   "repository": {
