@@ -1,6 +1,6 @@
 {
   "name": "functional-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Some utils for functional programming",
   "keywords": [
     "fp",
